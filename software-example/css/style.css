@@ -1,0 +1,17 @@
+.container-fluid
+{ 
+    background-position:top;
+    background-color: rgb(232, 224, 224);
+    border-radius: 15px;
+
+}
+
+.resimSlider
+{
+    height: 600px;
+}
+
+#morebtn
+{
+    border-radius: 13px;
+}
